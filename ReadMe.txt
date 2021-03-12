@@ -7,7 +7,7 @@ about the future build of this project.
 *Project Description*
 *********************
 Cloud Notes(curent project name) will be a web based
-notes application that will can be acessed from anywhere
+notes application that can be acessed from anywhere
 and with ease. It will be mobile friendly on the phone
 and the tablet.
 
@@ -17,8 +17,8 @@ and the tablet.
 the purpose of this app is to be able to give me the 
 ability to create,view and modify notes from multiple 
 devices and multiple computers/OS's and especially from 
-inside several different VDI's so that i make project notes
-as wella s mental notes with ease.
+inside several different VDI's so that i can make project 
+notes, as well as, mental notes with ease.
 
 *******************
 *UI/UX description*
