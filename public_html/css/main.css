@@ -1,0 +1,42 @@
+#wrapper{
+    width: 100%;
+    border: 1px solid black;
+    overflow: hidden;
+}
+#leftPaneBar{
+    float:left;
+    width: 25%;
+    height: 50px;
+    background-color: rgb(173, 165, 236);
+    /**padding: 10px;**/
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+#category{
+    width: 70%;
+    float: left;
+    position: relative;
+    margin-top: -5px;
+    padding-left: 5px;
+    font-size: 35px;
+    text-align: center;
+}
+#menuIcon{
+    float:left;
+    width: 15%;
+    /*ackground-color: white;*/
+}#menuIcon img{
+    width: 40px;
+    height: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#rightPaneBar{
+    float: right;
+    width: 75%;
+    height: 50px;
+    background-color: rgb(173, 165, 236);
+    padding: 10px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
